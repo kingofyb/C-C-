@@ -1,0 +1,8 @@
+﻿  test.c
+F:\比特学习\2021_11_8_array\2021_11_7_array\test.c(62,11): warning C4013: “mkfifo”未定义；假设外部返回 int
+F:\比特学习\2021_11_8_array\2021_11_7_array\test.c(68,14): error C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+F:\比特学习\2021_11_8_array\2021_11_7_array\test.c(69,9): error C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+F:\比特学习\2021_11_8_array\2021_11_7_array\test.c(73,9): error C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+F:\比特学习\2021_11_8_array\2021_11_7_array\test.c(77,14): error C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _open. See online help for details.
+F:\比特学习\2021_11_8_array\2021_11_7_array\test.c(79,9): error C4996: 'write': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _write. See online help for details.
+F:\比特学习\2021_11_8_array\2021_11_7_array\test.c(80,9): error C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
