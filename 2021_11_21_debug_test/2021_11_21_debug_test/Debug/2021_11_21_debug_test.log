@@ -1,0 +1,3 @@
+﻿  test.c
+F:\比特学习\class104\2021_11_21_debug_test\2021_11_21_debug_test\test.c(74): warning C4716: “my_strcpy”: 必须返回一个值
+  2021_11_21_debug_test.vcxproj -> F:\比特学习\class104\2021_11_21_debug_test\Debug\2021_11_21_debug_test.exe
