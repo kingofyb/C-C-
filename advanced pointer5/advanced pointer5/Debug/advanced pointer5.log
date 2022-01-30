@@ -1,0 +1,3 @@
+﻿  test.c
+F:\比特学习\class104\advanced pointer5\advanced pointer5\test.c(76,60): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  advanced pointer5.vcxproj -> F:\比特学习\class104\advanced pointer5\Debug\advanced pointer5.exe
