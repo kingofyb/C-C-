@@ -1,0 +1,4 @@
+﻿  test.c
+F:\比特学习\class104\2022_2_9_String\2022_2_9_String\test.c(64,7): warning C4013: “print”未定义；假设外部返回 int
+F:\比特学习\class104\2022_2_9_String\2022_2_9_String\test.c(74): warning C4716: “print”: 必须返回一个值
+  2022_2_9_String.vcxproj -> F:\比特学习\class104\2022_2_9_String\Debug\2022_2_9_String.exe
