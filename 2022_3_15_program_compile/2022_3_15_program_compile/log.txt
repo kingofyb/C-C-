@@ -1,0 +1,10 @@
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 0
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 1
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 2
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 3
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 4
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 5
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 6
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 7
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 8
+Mar 15 2022 16:59:28 F:\比特学习\class104\2022_3_15_program_compile\2022_3_15_program_compile\test.c 62 9
