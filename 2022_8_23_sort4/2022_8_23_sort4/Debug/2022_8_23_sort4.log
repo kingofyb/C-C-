@@ -1,0 +1,6 @@
+﻿  Sort.c
+  Stack.c
+  Test.c
+F:\比特学习\class104\2022_8_23_sort4\2022_8_23_sort4\Test.c(61,15): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  2022_8_23_sort4.vcxproj -> F:\比特学习\class104\2022_8_23_sort4\Debug\2022_8_23_sort4.exe
