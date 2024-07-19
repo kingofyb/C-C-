@@ -1,0 +1,31 @@
+﻿  test.cpp
+E:\bit-105\list_1\list_1\list.h(45,17): error C2248: “wyb::list_node<T>::_next”: 无法访问 private 成员(在“wyb::list_node<T>”类中声明)
+          with
+          [
+              T=int
+          ]
+E:\bit-105\list_1\list_1\list.h(8,17): message : 参见“wyb::list_node<T>::_next”的声明
+          with
+          [
+              T=int
+          ]
+E:\bit-105\list_1\list_1\list.h(55,11): message : 参见“wyb::list_node<T>”的声明
+          with
+          [
+              T=int
+          ]
+E:\bit-105\list_1\list_1\list.h(43,13): message : 在编译 类 模板 成员函数“wyb::__list_iterator<T> &wyb::__list_iterator<T>::operator ++(void)”时
+          with
+          [
+              T=int
+          ]
+E:\bit-105\list_1\list_1\list.h(108,4): message : 请参阅 "wyb::test_list1" 中对 "wyb::__list_iterator<T>::operator ++" 的第一个引用
+          with
+          [
+              T=int
+          ]
+E:\bit-105\list_1\list_1\list.h(104,23): message : 查看对正在编译的 类 模板 实例化“wyb::__list_iterator<T>”的引用
+          with
+          [
+              T=int
+          ]
